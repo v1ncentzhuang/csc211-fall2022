@@ -119,7 +119,7 @@ Your access in this course is important. Please send me your Disability Services
 
 It is the policy of the University of Rhode Island to accord students, on an individual basis, the opportunity to observe their traditional religious holidays. Students desiring to observe a holiday of special importance must provide written notification to each instructor.
 
-## COVID-19 Response
+<!-- ## COVID-19 Response
 
 The CSC 211 staff has met as a group and developed the format of the course moving forward. I'll outline that model below:
 
@@ -156,7 +156,7 @@ That's for now. We resume CSC 211 this week! Please stay safe and healthy (both 
 
 We *will* persevere.
 
--- M
+-- M -->
 
 ### Tentative Course Outline:
 
