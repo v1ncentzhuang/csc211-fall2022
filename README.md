@@ -34,7 +34,7 @@
 | --- | --- | --- |--- |
 |Monday |   Vincent, Matt, Nadia | 2:00p - 3:45p  | Tyler 055 |
 |Friday |   Vincent, Matt, Nadia, Yemi |   12:00p - 1:45p| Library 166 |
-|Friday |   Rodrigo, Jordan, Christian |   2:00p - 3:45p | Library 166 |
+|Friday |   Vincent, Matt, Nadia |   2:00p - 3:45p | Library 166 |
 
 ### Course Overview
 
