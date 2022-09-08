@@ -21,19 +21,20 @@
 
 > Attending 80% of discussion sessions will earn you an additional 5pts on your final exam.
 
-| Day | Staff Member |  Time |
-| --- | --- | --- |
-|Tuesday |   Christian |   5:00p – 6:00p  |
-|Wednesday |   Christian |   4:20p – 5:20p  |
+| Day | Staff Member |  Time | Location |
+| --- | --- | --- | --- |
+|Tuesday |   Vincent |   1:00p – 2:00p  | TBD| 
+|Wednesday |   Matt |   4:00p – 5:00p  |TBD |
 
 
 **Lab**
-<br>Location: Engineering ~ rm045
+<br>Location: Library 166 / Tyler 055
 
-| Day | Staff Member |  Time |
-| --- | --- | --- |
-|Monday |   John, Jordan, Tanner |   3:00p – 4:45p  |
-|Thursday |   Rodrigo, Jordan, Christian |   3:30p – 5:15p|
+| Day | Staff Member |  Time | Room |
+| --- | --- | --- |--- |
+|Monday |   Vincent, Matt, Nadia | 2:00p - 3:45p  | Tyler 055 |
+|Friday |   Vincent, Matt, Nadia, Yemi |   12:00p - 1:45p| Library 166 |
+|Friday |   Rodrigo, Jordan, Christian |   2:00p - 3:45p | Library 166 |
 
 ### Course Overview
 
