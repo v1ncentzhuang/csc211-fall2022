@@ -86,9 +86,10 @@ Coursework consists of lab attendance, problem sets, programming assignments, an
 | Gradebook item | Count | Weight | 
 | --- | --- | --- |
 | Lab Attendance | 1 | 10% |
-| Programming Assignments | ~8 | 25% | 
-| Exams | 2 | 35% |
-| Final Exam | 1 | 30% |
+| Programming Assignments | ~5 | 25% | 
+| Weekly Programming Challenges | ~13 | 10% | 
+| Exams | 2 | 30% |
+| Final Exam | 1 | 25% |
 
 Your final letter grade will be calculated using the cutoffs in the table below. These cutoffs might be lowered, but they will not be raised. Your final letter grade will be the letter corresponding to the highest cutoff value less or equal than your final grade. Consider that those values are strict. For example, a final grade of 93.99 is an A- and not an A.
 
