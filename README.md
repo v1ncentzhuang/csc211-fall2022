@@ -93,10 +93,9 @@ Coursework consists of lab attendance, problem sets, programming assignments, an
 
 Your final letter grade will be calculated using the cutoffs in the table below. These cutoffs might be lowered, but they will not be raised. Your final letter grade will be the letter corresponding to the highest cutoff value less or equal than your final grade. Consider that those values are strict. For example, a final grade of 93.99 is an A- and not an A.
 
-
-| A [94-100] | A- [90-93] |  B+ [87-89] | B [83-86]  |  B [83-86]  | B- [80-82] |
+| A [94-100] | A- [90-93] |  B+ [87-89] | B [83-86]  |  B- [80-82]  | **C+ [77-79]** |
 | --- | --- | --- | --- | --- | --- |
-| **C+ [77-79]** |  **C [73-76]** |**C- [70-72]** | **D+ [67-69]**  | **D [60-66]** | **F [< 60]**  |
+| **C [73-76]** |**C- [70-72]** | **D+ [67-69]**  | **D [60-66]** | **F [< 60]**  | |
 
 
 ### Academic Enhancement Center
