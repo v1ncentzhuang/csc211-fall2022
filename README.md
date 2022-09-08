@@ -12,7 +12,7 @@
 | --- | --- | --- |
 |Monday |   Nadia <br> Matt|   10:00a – 12:00p <br> 1:00p - 2:00p |
 |Tuesday |  Yemi |   9:00a - 10:30a|
-|Wednesday   |  Nadia <br> Matt  |  9:00a – 10:00a <br> 1:00p - 2:00p  |
+|Wednesday   |  Nadia |  9:00a – 10:00a |
 |Thursday   |  Yemi <br> Vincent | 9:00a - 10:30a <br> 1:00p - 2:30p|
 |Friday    |   Matt|  11:00a - 12:00p |
 
