@@ -10,10 +10,10 @@
 
 | Day | Staff Member |  Time |
 | --- | --- | --- |
-|Monday |   Nadia <br> Matt|   10:00a – 12:00p <br> 1:00p - 2:00p |
-|Tuesday |  Yemi <br> Mike (Tyler 137)|   9:00a - 10:30a <br> 2:00p - 3:00p|
-|Wednesday   |  Nadia |  9:00a – 10:00a |
-|Thursday   |  Yemi <br> Vincent | 9:00a - 10:30a <br> 1:00p - 2:30p|
+|Monday |   Nadia <br> Yemi <br> Matt|   10:00a – 12:00p <br> 12:00p - 1:00p <br> 1:00p - 2:00p |
+|Tuesday |   Mike (Tyler 137)|   2:00p - 3:00p|
+|Wednesday   |  Nadia <br> Yemi |  9:00a – 10:00a <br> 2:00p - 4:00p |
+|Thursday   |  Vincent | 1:00p - 2:30p|
 |Friday    |   Matt|  11:00a - 12:00p |
 
 **Discussion Session**
@@ -32,9 +32,9 @@
 
 | Day | Staff Member |  Time | Room |
 | --- | --- | --- |--- |
-|Monday |   Vincent, Matt, Nadia | 2:00p - 3:45p  | Tyler 055 |
+|Monday |   Vincent, Matt, Nadia, Yemi | 2:00p - 3:45p  | Tyler 055 |
 |Friday |   Vincent, Matt, Nadia, Yemi |   12:00p - 1:45p| Library 166 |
-|Friday |   Vincent, Matt, Nadia |   2:00p - 3:45p | Library 166 |
+|Friday |   Vincent, Matt, Nadia, Yemi |   2:00p - 3:45p | Library 166 |
 
 ### Course Overview
 
