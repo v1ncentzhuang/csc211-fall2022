@@ -34,6 +34,6 @@ In this assignment you are expected to work in groups.   Your group will write a
 
 6. It is pertinent at this point to make clear that this is a group assignment in every sense, and as such you will all be scored together.  You should verify that everyone's contributions are not plagiarized from the internet.  If your document contains substantial portions of plagiarized text, _all_ members will be penalized.
 
-7. Your paper can contain figures, tables, images etc. The length including these media should be about 7-12 pages.
+7. Your paper can contain figures, tables, images etc. The length including these media should be about 7-12 pages with 1.5 spacing.
 
 8. To submit the assignment, you should generate a PDF containing each group members' name and upload it to Gradescope by the due date (09/18/22).
