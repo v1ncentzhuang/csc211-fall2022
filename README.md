@@ -23,7 +23,7 @@
 
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
-|Tuesday |   Vincent |   1:00p – 2:00p  | TBD| 
+|Tuesday |   Vincent |   1:00p – 2:00p  | Tyler 052| 
 |Wednesday |   Matt |   4:00p – 5:00p  |Hybrid / Zoom & Tyler Third Floor Lounge|
 
 
